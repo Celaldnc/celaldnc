@@ -20,10 +20,9 @@ A passionate 3rd-year Software Engineering student and Full-Stack Developer.
 - 🚀 CI/CD pipelines and server management (Ubuntu).
 
 ### Connect with me:
-[<img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="20" />](https://celaldinc.com.tr)
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/celal-dinç/)
+[<img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="20" />](https://www.celaldinc.com.tr)
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/celal-din%C3%A7-b858a7246/)
 
 <br/><br/>
 
-### GitHub Stats:
-![Celal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celaldnc&show_icons=true&theme=dark&count_private=true)
+
