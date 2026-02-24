@@ -1,9 +1,11 @@
 # Hi 👋, I'm Celal Dinç
 
 A passionate 3rd-year Software Engineering student and Full-Stack Developer.
-
+<p align="center">
+  <img src="lottie.gif" width="300" />
+</p>
 ### 💼 Professional Experience
-- 🚀 **Software Engineer** at **Turksem**
+- 🚀 **Software Engineer** at **Turksem**                          
 - 🛠️ **Full-Stack Developer** at **Hitit Medya**
 - 🤖 Actively developing full-stack projects and integrating **AI tools** into development workflows.
 
