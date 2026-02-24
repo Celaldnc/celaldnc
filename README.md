@@ -9,15 +9,10 @@ A passionate 3rd-year Software Engineering student and Full-Stack Developer.
 
 ### 🛠️ Tech Stack & Tools
 - **Frontend:** React, Next.js, Tailwind CSS, GSAP
-- **Backend & DB:** SQL Server, PostgreSQL, Firebase
-- **Mobile:** Flutter
-- **Automation:** n8n, Docker, Nginx
-- **AI:** OpenAI API, Agentic Workflows
-
-### ⚡ Technical Interests
-- 🏗️ Developing modular and scalable software architectures.
-- 🧹 Writing clean code based on OOP principles.
-- 🚀 CI/CD pipelines and server management (Ubuntu).
+- **Backend & DB:** SQL Server, PostgreSQL, Firebase,Python 
+- **Mobile:** Flutter,                                                            
+- **Automation:** n8n, Docker, Nginx Proxy Manager
+- **AI:** OpenAI API, Agentic Workflows, CLAUDE AI
 
 ### Connect with me:
 [<img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="20" />](https://www.celaldinc.com.tr)
