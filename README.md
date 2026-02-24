@@ -1,9 +1,9 @@
 # Hi 👋, I'm Celal Dinç
+### Connect with me:
+[<img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="20" />](https://www.celaldinc.com.tr)
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/celal-din%C3%A7-b858a7246/)
 
 A passionate 3rd-year Software Engineering student and Full-Stack Developer.
-<p align="center">
-  <img src="lottie.gif" width="300" />
-</p>
 ### 💼 Professional Experience
 - 🚀 **Software Engineer** at **Turksem**                          
 - 🛠️ **Full-Stack Developer** at **Hitit Medya**
@@ -18,10 +18,7 @@ A passionate 3rd-year Software Engineering student and Full-Stack Developer.
 <p align="center">
   <img src="lottie.gif" width="300" />
 </p>
-### Connect with me:
-[<img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="20" />](https://www.celaldinc.com.tr)
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/celal-din%C3%A7-b858a7246/)
 
-<br/><br/>
+
 
 
