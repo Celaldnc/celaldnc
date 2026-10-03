@@ -57,7 +57,6 @@ I build and ship production web platforms end to end — from requirements and a
 
 - Portfolio — [celaldinc.com.tr](https://www.celaldinc.com.tr)
 - LinkedIn — [celal-dinç](https://www.linkedin.com/in/celal-din%C3%A7-b858a7246/)
-- X — [@celaldinc](https://x.com/celaldinc)
 - Email — celaldinc634@gmail.com
 
 ---
